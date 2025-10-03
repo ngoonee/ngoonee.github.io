@@ -2,10 +2,6 @@
 title: Home
 layout: home
 ---
----
-title: Home
-layout: home
----
 
 Welcome to Ng Oon-Ee's documentation website! This website is a collection of my notes and projects. This page will be updated constantly.
 
