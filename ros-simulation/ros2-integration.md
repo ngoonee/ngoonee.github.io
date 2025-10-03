@@ -32,9 +32,5 @@ You can list the services using the following command:
 gz service -l
 ```
 
-## Gazebo Garden - Example
-
-Refer to the link [https://github.com/dannyngweekiat/Gazebo-Garden-Simulation-Example](https://github.com/dannyngweekiat/Gazebo-Garden-Simulation-Example) for nav and slam example.
-
 ---
 [Prev]({{ site.baseurl }}{% link ros-simulation/gazebo.md %})
